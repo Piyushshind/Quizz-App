@@ -8,13 +8,13 @@ flex-direction: column;
 /* border: 1px solid rgb(97, 136, 191); */
 color: #252d4a;
 cursor: pointer;
- 
-text-align: center;
+ text-align: center;
 }
 .innerwrapper{
   border: 3px solid rgb(26, 26, 186);
   width: 100%;
   font-weight: 500;
+  background-color: #9709f5;
 }
 .innerwrapper:hover{
     background-color: #252d4a;
@@ -67,7 +67,6 @@ text-align: center;
   text-align: center;
 }
 
-/* ANSWERS/RIGHT SECTION */
 .answer-section {
   width: 100%;
   display: flex;
